@@ -16,8 +16,8 @@ Follow the instructions below to set up and run the script.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Figeiron/magic-heart-parade.git
-   cd magic-heart-parade
+   git clone https://github.com/Figeiron/magic_heart.git
+   cd magic_heart
 
 2. Install the required dependencies:
 
@@ -28,7 +28,7 @@ Follow the instructions below to set up and run the script.
 5. Run the script:
     
     ```bash
-    python magic_heart_parade.py
+    python magic_heart.py
    
 ### Usage
 
