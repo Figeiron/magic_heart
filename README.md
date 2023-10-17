@@ -28,7 +28,7 @@ Follow the instructions below to set up and run the script.
 5. Run the script:
     
     ```bash
-    python magic_heart.py
+    python magic_heart_parade.py
    
 ### Usage
 
